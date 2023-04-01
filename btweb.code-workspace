@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "btweb",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "src",
+		"liveServer.settings.port": 5501
+	}
+}
